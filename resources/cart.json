@@ -1,0 +1,19 @@
+{
+	"order": {
+		"orderID": "ORDER01",
+		"orderType": "S",
+		"total": 100.00,
+		"orderLines": [
+			{
+				"orderItemsID": 1,
+				"originalOrderQty": 1,
+				"productId": "PRD12",
+				"productCode": "PRD12",
+				"productDesc": "New Product For Sale",
+				"manufacturerName": "New Product",
+				"quantity": 1,
+				"lineTotal": 100.00
+			}
+		]
+	}
+}
